@@ -1,4 +1,4 @@
 .env
-./dataset
-./dataset-cleaned
-./vscode
+dataset/
+dataset-cleaned/
+vscode/
